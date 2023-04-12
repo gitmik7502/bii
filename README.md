@@ -1,8 +1,8 @@
 # Bii
-
 This is my newest I made called 'Bii'.
 its a command-line copy-ish of the Wii's OS.
 Enough text lets begin:
+---IT IS STILL IN DEVELOPMENT---
 
 ### setup:  
 #### Requirements:
